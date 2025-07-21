@@ -9,9 +9,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer . 
-
-- 🔭 I'm a Research and Teaching Assistant [@Birzeit University](https://www.birzeit.edu) in Berzeit, Palestine
+Know about my experiences: https://drive.google.com/file/d/1JvxzWuARJdvu1W2Vq6g9JPLqlIitpiQR/view?usp=sharing
 
 
 
