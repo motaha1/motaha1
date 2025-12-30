@@ -9,7 +9,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-Know about my experiences: [[https://drive.google.com/file/d/1JvxzWuARJdvu1W2Vq6g9JPLqlIitpiQR/view?usp=sharing](https://drive.google.com/file/d/15H3ac5CRHJOwvKlFwh1p4_lABZlWKwcN/view?usp=sharing)](https://drive.google.com/file/d/15H3ac5CRHJOwvKlFwh1p4_lABZlWKwcN/view?usp=sharing)
+Know about my experiences: https://drive.google.com/file/d/15H3ac5CRHJOwvKlFwh1p4_lABZlWKwcN/view?usp=sharing
 
 
 
